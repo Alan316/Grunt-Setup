@@ -8,3 +8,5 @@ It will optimize images, compile sass, validate and make your javascripts ugly, 
 <br>src/images
 <br>src/scripts
 <br>src/styles
+
+Image optimization currently does not work. run "grunt watch" to watch for js and sass and skip image optimization.
