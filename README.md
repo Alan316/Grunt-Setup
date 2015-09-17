@@ -9,4 +9,4 @@ It will optimize images, compile sass, validate and make your javascripts ugly, 
 <br>src/scripts
 <br>src/styles
 
-Image optimization currently does not work. run "grunt watch" to watch for js and sass and skip image optimization.
+Clean currently is set to not delete /dist directory upon start. It's not efficient to start from scratch everytime you don't run grunt as standalone. 
