@@ -9,4 +9,4 @@ It will optimize images, compile sass, validate and make your javascripts ugly, 
 <br>src/scripts
 <br>src/styles
 
-Clean currently is set to not delete /dist directory upon start. It's not efficient to start from scratch everytime you don't run grunt as standalone. 
+Clean currently is set to not delete /dist directory upon start. It's not efficient to start from scratch everytime grunt isn't run as standalone. 
