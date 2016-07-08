@@ -1,7 +1,7 @@
 {
-  "name": "grunt-test",
-  "version": "0.0.1",
-  "description": "My Grunt Test",
+  "name": "grunt-repo_ac",
+  "version": "0.0.3",
+  "description": "Alan Camuto's Grunt Repo",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-concurrent": "^2.0.1",
