@@ -10,3 +10,6 @@ It will optimize images, compile sass, validate and make your javascripts ugly, 
 <br>src/styles
 
 Clean currently is set to not delete /dist directory upon start. It's not efficient to start from scratch everytime grunt isn't run as standalone. 
+
+
+***NOTE*** Node Sass is not compatable with Node.js 8+. You will have to downgrade to None 6 or 7 to get it to work again. ****
