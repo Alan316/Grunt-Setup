@@ -15,6 +15,7 @@ module.exports = {
         'uglify'
     ],
 
+
     // Production tasks
     prodFirst: [
         'clean',
@@ -23,6 +24,9 @@ module.exports = {
     prodSecond: [
         'sass:prod',
         'uglify'
+    ],
+    prodThird: [
+        'pug'
     ],
 
     // Image tasks
