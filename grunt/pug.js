@@ -4,7 +4,7 @@ module.exports = {
         options: { pretty: true },
         files: [{
             expand: true,
-            cwd: 'src/pug',
+            cwd: 'views/*.*',
             src: ['*.pug'],
             dest: 'dist/html',
             ext: '.html'
