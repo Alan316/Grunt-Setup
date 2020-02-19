@@ -16,3 +16,4 @@ Clean currently is set to not delete /dist directory upon start. It's not effici
 Changelog -
 ------------
 Version 0.2.0 - Updated Dependency versions and added Pug file compilations
+Version 0.3.0 - Updated Dependencies (Long Overdue)
